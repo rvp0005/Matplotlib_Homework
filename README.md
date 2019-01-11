@@ -1,7 +1,7 @@
 # Matplotlib_Homework
 
 I had difficulties with my Github not working with my command line. 
-Bowen was able to help me but it made it look like I submitted the homework super late and deleted the Readme where I posted the observable trends. 
+Bowen was able to help me but it made it look like I submitted the homework super late and deleted the Readme where I posted the observable trends. I had initially just uploaded it from the website. 
 
 It uploaded everything in the folder. I did the Pyber exercise. 
 
